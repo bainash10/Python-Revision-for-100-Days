@@ -1,4 +1,6 @@
 import nisc_module
+#! Now a new directory is created as name __pycache__.
+#! __pycache__ is a directory that is created by the Python interpreter when it imports a module. It contains the compiled bytecode of the module, which can be used to speed up subsequent imports of the same module.
 
 result= nisc_module.pi
 print(result)
