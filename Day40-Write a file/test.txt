@@ -1,0 +1,2 @@
+Hello this is Nischal 
+ Watch my journey! This will append the file while using the 'a' mode
