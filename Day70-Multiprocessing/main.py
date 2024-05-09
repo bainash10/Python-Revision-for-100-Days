@@ -28,10 +28,11 @@ def main():
     a.join()
     b.join()
 
+
     print("Done!")
     print("finished in:", time.perf_counter(), "seconds")
 
 
 
-if __name__ == '__main__':  #If using windows need to do this
+if __name__ == '__main__':  #If using windows need to do this.
     main()
