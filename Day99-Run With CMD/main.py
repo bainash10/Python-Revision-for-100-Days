@@ -3,7 +3,7 @@
 
 # save file as .py (Python file)
 # go to command prompt
-# navigate to directory w/ your file: cd C:\Users\BroCode\Desktop
+# navigate to directory w/ your file: cd C:\Users\NischalCode\Desktop
 # invoke python interpreter + script: python hello_world.py
 
 
